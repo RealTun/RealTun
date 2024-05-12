@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**RealTun/RealTun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Your Name], a [Your Profession] with a passion for programming. I'm interested in [Your Areas of Interest in Programming].
 
-Here are some ideas to get you started:
+Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming Languages:
+[List your most used programming languages (e.g., Python, JavaScript, Java)]
+[List any other languages you're familiar with (optional)]
+Frameworks/Libraries:
+[List any frameworks or libraries you use regularly]
+Tools:
+[List any development tools you use (e.g., Git, version control system)]
+Currently Working On:
+
+[ Briefly describe any current projects you're working on (optional)]
+Let's Connect!
+
+Feel free to reach out to me on:
+
+[https://www.facebook.com/tuann216/]
+[Link to your personal website or portfolio (optional)]

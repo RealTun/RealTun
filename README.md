@@ -5,7 +5,8 @@ I'm [Your Name], a [Your Profession] with a passion for programming. I'm interes
 Tech Stack:
 
 Programming Languages:
-[List your most used programming languages (e.g., Python, JavaScript, Java)]
+![php](https://img.shields.io/badge/php-#777BB4?style=for-the-badge&logo=GitHub&logoColor=white)]
+
 [List any other languages you're familiar with (optional)]
 Frameworks/Libraries:
 [List any frameworks or libraries you use regularly]

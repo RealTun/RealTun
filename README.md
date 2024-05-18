@@ -5,14 +5,6 @@
         </samp>
 </h3>
 
-
-<p align="center"> 
-  <samp>
-    「 I am a backend developer</b> 」
-    <br>
-  </samp>
-</p>
-
 <!-- About Section -->
 
 ## Programming Languages

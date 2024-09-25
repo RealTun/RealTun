@@ -1,16 +1,16 @@
 👋 **Hi, I’m @DoHuuTuan!**
 
 👀 **Skills:** 
-- Languages: PHP, Java, C#, C++, JavaScript
-- Frameworks/Libs: Laravel, ASP.NET, Windows Forms, Jquery, Ajax, Bootstrap
-- Databases: MySQL, SQLServer, SQLite
+- Languages: PHP, JavaScript, C#, Java, C++
+- Frameworks/Libs: Laravel, NodeJS, ExpressJS, Jquery, Ajax, Bootstrap
+- Databases: MySQL, SQLServer, MongoDB, SQLite
 - Tools: Git, Postman, Docker
 - Platforms: Web, Windows, Android, Cloud
 - Others: OOP, Design Patterns, SOLID
 
 🌱 **Currently Learning:** 
 - Deepening knowledge in web/app development
-- Focusing on PHP and C#
+- Focusing on PHP, JavaScript and C#
 
 📫 **How to Reach Me:** 
 - **Email:** dotuan458@gmail.com

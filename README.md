@@ -5,7 +5,6 @@
 - Frameworks/Libs: Laravel, NodeJS, ExpressJS, Jquery, Ajax, Bootstrap
 - Databases: MySQL, SQLServer, MongoDB, SQLite
 - Tools: Git, Postman, Docker
-- Platforms: Web, Windows, Android, Cloud
 - Others: OOP, Design Patterns, SOLID
 
 🌱 **Currently Learning:** 

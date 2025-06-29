@@ -2,7 +2,7 @@
 
 👀 **Skills:** 
 - Languages: PHP, JavaScript, C#, Java, C++
-- Frameworks/Libs: Laravel, NodeJS, ExpressJS, Jquery, Ajax, Bootstrap
+- Frameworks/Libs: Laravel, ReactJS, NodeJS, ExpressJS, Jquery, Bootstrap
 - Databases: MySQL, SQLServer, MongoDB, SQLite
 - Tools: Git, Postman, Docker
 - Others: OOP, Design Patterns, SOLID
